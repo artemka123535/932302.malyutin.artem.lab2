@@ -1,0 +1,6 @@
+.content {
+    max-width: calc(64vh);
+    margin: 0 auto;
+    background-color: blue;
+    color: #fff;
+}
